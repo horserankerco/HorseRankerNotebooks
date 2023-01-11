@@ -55,8 +55,6 @@ DOWNLOADER_MIDDLEWARES = {
    # 'scrapy_zyte_smartproxy.ZyteSmartProxyMiddleware': 610,
 }
 
-# ZYTE_SMARTPROXY_ENABLED = False
-# ZYTE_SMARTPROXY_APIKEY = '951754db72224c3a91fd562e511d0cee'
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
